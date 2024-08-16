@@ -1,6 +1,6 @@
 ## Job Vacancy
 
-Ini adalah proyek study case Backend Developer dari PT Panorama JBT menggunakan framework Laravel yang memerlukan beberapa langkah untuk setup lingkungan pengembangan lokal. Ikuti langkah-langkah di bawah ini untuk menginstal dependensi dan menjalankan aplikasi.
+Ini adalah proyek study case Backend Developer dari PT Panorama JBT menggunakan framework Laravel versi 11 yang memerlukan beberapa langkah untuk setup lingkungan pengembangan lokal. Ikuti langkah-langkah di bawah ini untuk menginstal dependensi dan menjalankan aplikasi.
 
 ## Persyaratan Sistem
 
