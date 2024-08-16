@@ -1,6 +1,13 @@
-## Job Vacancy
+# Job Vacancy
 
 Ini adalah proyek study case Backend Developer dari PT Panorama JBT menggunakan framework Laravel versi 11 yang memerlukan beberapa langkah untuk setup lingkungan pengembangan lokal. Ikuti langkah-langkah di bawah ini untuk menginstal dependensi dan menjalankan aplikasi.
+
+## Fitur
+
+Sistem ini memiliki beberapa fitur:
+- Admin harus login (menggunakan email & password) untuk mengelola dada jobs dan applications
+- Saat user apply lowongan yang tersedia, sistem akan secara otomatis mengirim notifikasi pemberitahuan melalui email (sesuaikan konfigurasi email di file `.env`)
+- Autentifikasi API user login menggunakan token (laravel sanctum)
 
 ## Persyaratan Sistem
 
